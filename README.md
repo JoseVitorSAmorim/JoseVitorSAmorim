@@ -78,12 +78,12 @@ Sou José Vitor Santana de Amorim, tenho 18 anos, sou de Campo Mourão, Paraná.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="profile/stats.svg?v3"
+    src="https://github.com/JoseVitorSAmorim/JoseVitorSAmorim/blob/main/profile/stats.svg"
   />
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="profile/top-langs.svg?v3" 
+      src="https://github.com/JoseVitorSAmorim/JoseVitorSAmorim/blob/main/profile/top-langs.svg"
   />
 </p>

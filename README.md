@@ -5,7 +5,7 @@
 Sou José Vitor Santana de Amorim, tenho 18 anos, sou de Campo Mourão, Paraná. Estou no ensino médio no Colégio Cívico-Militar Marechal Rondon, cursando o curso técnico de desenvolvimento de sistema.
 
 <p align="left">
-    <a href="https://github.com/JoseVitorSAmorim tab=followers">
+    <a href="https://github.com/JoseVitorSAmorim?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 

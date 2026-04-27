@@ -13,7 +13,9 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
@@ -45,4 +47,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
+          git pull --rebase origin main # Sincroniza as mudanças antes do push
           git push

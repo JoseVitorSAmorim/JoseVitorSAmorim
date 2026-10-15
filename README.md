@@ -1,4 +1,4 @@
-# 👨🏻‍💻 José Vitor
+# José Vitor
 
 **`Desenvolvedor em formação`**
 
